@@ -1,0 +1,1 @@
+This game is a snake game created using the Python Turtle library.
